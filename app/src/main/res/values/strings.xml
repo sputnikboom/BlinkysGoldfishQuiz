@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Blinky\'s Goldfish Quiz</string>
+    <string name="quiz_title">Blinky\'s Goldfish Quiz!</string>
+    <string name="quiz_intro">Hello! I\'m Blinky, and welcome to my quiz all about the exciting
+    world of goldfish! Are you ready to test your knowledge of fishy FIN-fomation? Let\'s go!</string>
+
+    <string name="question_1">1. So to start - look at that handsome portrait of me up above.
+        What kind of goldfish am I?</string>
+    <string name="comet">Comet</string>
+    <string name="telescope">Telescope</string>
+    <string name="pearlscale">Pearlscale</string>
+
+    <string name="question_2">2. And which of these is <b><i>not</i></b> a variety of goldfish?</string>
+    <string name="pompom">Pompom</string>
+    <string name="bubble_eye">Bubble Eye</string>
+    <string name="mini_tail">Mini-Tail</string>
+
+    <string name="question_3">3. Which of these foods are good to include in a goldfish\'s diet?</string>
+    <string name="spinach">Spinach</string>
+    <string name="peas">Peas</string>
+    <string name="brine_shrimp">Brine Shrimp</string>
+    <string name="pellets">Fish Pellets</string>
+    <string name="flake_food">Fish Flake Food</string>
+
+    <string name="question_4">4. What are little baby fish known as?</string>
+    <string name="small_scales">Small Scales</string>
+    <string name="fishlings">Fishlings</string>
+    <string name="fry">Fry</string>
+
+    <string name="question_5">5. In which country were goldfish first bred?</string>
+    <string name="country">Country</string>
+
+
+    <string name="question_6">6. What kind of fish are goldfish descended from?</string>
+    <string name="asian_carp">Asian Carp</string>
+    <string name="rainbow_trout">Rainbow Trout</string>
+    <string name="mimosa">Mimosa</string>
+
+
+    <string name="question_7">7. What colour were the first goldfish?</string>
+    <string name="yellow">Yellow</string>
+    <string name="orange">Orange</string>
+    <string name="black">Black</string>
+
+
+    <string name="question_8">8. Goldfish only have a 6-second memory.</string>
+
+    <string name="question_9">9. Goldfish don\'t have any teeth.</string>
+
+    <string name="question_10">10. Just like us, goldfish need to sleep every night.</string>
+
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="veiltail_imgsrc">Image: Hans Braxmeier/Pixabay</string>
+    <string name="oranda_imgsrc">Image: Benson Kua/Flickr</string>
+    <string name="blinky_imgsrc">Image: @kingblinkyfish/twitter</string>
+
+
+</resources>
